@@ -3,9 +3,9 @@
 <h3 align="center">Progress is an Attitude</h3>
 
 
-- 🔭 I’m currently working on **SAUVC 2022**
+- 🔭 I’m currently working on design and developement of AMRs and AGVs
 
-- 💬 Ask me about **Startups and Robotics**
+- 💬 Lets have a chat on **Startups and Robotics**
 
 - 📫 How to reach me **Vyshnav.Kalladithodi@gmail.com**
 
